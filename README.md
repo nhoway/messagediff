@@ -19,7 +19,7 @@ Options:
 ```go
 package main
 
-import "github.com/protolambda/messagediff"
+import "github.com/nhoway/messagediff"
 
 type someStruct struct {
     A, b int
@@ -44,7 +44,7 @@ func main() {
 ### Test usage example
 
 ```go
-import "github.com/protolambda/messagediff"
+import "github.com/nhoway/messagediff"
 
 ...
 
@@ -69,7 +69,7 @@ this:
 ```go
 package main
 
-import "github.com/protolambda/messagediff"
+import "github.com/nhoway/messagediff"
 
 type someStruct struct {
     A int

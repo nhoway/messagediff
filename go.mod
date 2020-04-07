@@ -1,3 +1,3 @@
-module github.com/protolambda/messagediff
+module github.com/nhoway/messagediff
 
 go 1.12
